@@ -1,8 +1,8 @@
 # 🔍 TrAHelper
 ### Resimler
 
-![Ekran görüntüsü 2024-03-04 153623](https://github.com/thescrayx/Turkanime-Helper/assets/61876272/6197b822-fd49-4fee-8cd2-d1e1dfed457d)
 ![image](https://github.com/thescrayx/Turkanime-Helper/assets/61876272/c0f501d1-5a8c-4e64-a8b9-213b808d75dd)
+![Ekran görüntüsü 2024-03-04 153623](https://github.com/thescrayx/Turkanime-Helper/assets/61876272/6197b822-fd49-4fee-8cd2-d1e1dfed457d)
 
 ### İçerik
   - Otomatik başlatma.
