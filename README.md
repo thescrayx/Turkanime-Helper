@@ -1,14 +1,15 @@
 # 🔍 TrAHelper
-**- Resimler***
+###- Resimler
 
 ![Ekran görüntüsü 2024-03-04 153623](https://github.com/thescrayx/Turkanime-Helper/assets/61876272/6197b822-fd49-4fee-8cd2-d1e1dfed457d)
 ![image](https://github.com/thescrayx/Turkanime-Helper/assets/61876272/c0f501d1-5a8c-4e64-a8b9-213b808d75dd)
-**- İçerik**
+
+###- İçerik
   - Otomatik başlatma.
   - Kaydedilmiş çevirmenleri sırasına göre seçme.
   - Kaydedilmiş oynatıcıları sırasına göre seçip başlatma.
   - Bir sonraki bölüme geçmek için klavye tuşu kısayolu "-". (klavye kısayolu sadece boş bir alana basıldığında çalışır, player seçili ise tetiklenmez)
-**- Kurulum**
+###- Kurulum
   1. Dosyaları bir klasöre çıkartın.
   2. Tarayıcınızın uzantılar bölümüne gidin.
      ![image](https://github.com/thescrayx/Turkanime-Helper/assets/61876272/1fb8350d-42af-4f7c-8e99-0e636d8cc41d)
