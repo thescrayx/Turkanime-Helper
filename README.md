@@ -1,2 +1,2 @@
 # TrAHelper
-turkanime.co Otomatik oynatıcı ve çevirmen için tarayıcı uzantısı.
+Dosyaları klasöre çıkarın, tarayıcınızda uzantılar bölümüne girin, gelişitirici modunun tikini açın, açılmış paket yükle bölümünden uzantıyı seçin.
